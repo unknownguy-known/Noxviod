@@ -182,12 +182,16 @@ nav a:hover{
       display: none;
     }
     #signup-but{
+        
         display: none;
     }
     nav i{
         display: none;
     }
     .team{
+        font-size: medium;
+    }
+    .content h2{
         font-size: medium;
     }
     .banner .slider{
